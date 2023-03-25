@@ -1,0 +1,5 @@
+1.creo que al ser una regla de negocio debe lanzar un error que le diga al usuario que la cantidad de boletas no está en el rango permitido
+, de contar con acceso a la GUI podría gestionarse un error en la interfaz grafica.
+
+2. al buscar alguna materia de la DB se debe retornar un tipo de dato, sea null de no encontrarse nada. podiendo implementar un try cathc
+para manejar errores por si la DB falla.
